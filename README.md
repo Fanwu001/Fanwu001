@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Fanwu001/Fanwu001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋 
+
+A undergraduate student of Zhejiang University, majoring in Agricultural Engineering and Statistics.
+
+-  :ticket: https://fanwu001.github.io/
+- 📫 fan.wu@zju.edu.cn
+-  :cinema: https://space.bilibili.com/379498372
+- 💬 Don't just read it, fight it!
